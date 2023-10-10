@@ -17,3 +17,6 @@ ul li {
   color: blue;
 }
 
+ul {
+  display: grid;
+}
