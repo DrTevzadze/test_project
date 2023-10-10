@@ -4,3 +4,16 @@ body {
   font-size: 12px;
   background-color: black;
 }
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul li {
+  text-decoration: none;
+  color: blue;
+}
+
